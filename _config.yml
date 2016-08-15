@@ -6,9 +6,9 @@ color:
   saturation: 0.08950345451012254
   rhythmicContrast: 0.5799143088515848
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
 name: Frente de liberación de metadatos
